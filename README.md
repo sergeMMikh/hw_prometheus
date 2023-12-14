@@ -57,3 +57,10 @@
   * <img src="images/Task_4_1.jpg" alt="Task_4_1" width="300" height="auto">
 
 ---
+
+### Задание 5*
+Интегрируйте Grafana и Prometheus.
+
+#### Требования к результату
+- скриншот дашборда (ID:11074) с поступающими туда данными из Node Exporter
+  * <img src="images/Task_5_1.jpg" alt="Task_5_1" width="700" height="auto">
