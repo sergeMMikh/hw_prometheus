@@ -46,3 +46,14 @@
   * <img src="images/Task_3_1.jpg" alt="Task_3_1" width="500" height="auto">
 - скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
   * <img src="images/Task_3_2.jpg" alt="Task_3_2" width="500" height="auto">
+
+---
+
+### Задание 4*
+Установите Grafana.
+
+#### Требования к результату
+- скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ФИО
+  * <img src="images/Task_4_1.jpg" alt="Task_4_1" width="300" height="auto">
+
+---
