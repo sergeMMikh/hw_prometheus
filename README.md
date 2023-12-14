@@ -14,3 +14,18 @@
 #### Pезультат
 - скриншот systemctl status prometheus, где написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — [ФИО]
   * <img src="images/Task_1_1.jpg" alt="Task_1_1" width="500" height="auto">
+
+---
+
+### Задание 2*
+Установите Node Exporter.
+
+#### Процесс выполнения
+1. Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
+3. Скачайте node exporter приведённый в презентации и в соответствии с лекцией разместите файлы в целевые директории
+4. Создайте сервис для как показано на уроке
+5. Проверьте что node exporter запускается, останавливается, перезапускается и отображает статус с помощью systemctl
+
+#### Требования к результату
+- скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [ФИО]
+  * <img src="images/Task_2_1.jpg" alt="Task_1_1" width="500" height="auto">
