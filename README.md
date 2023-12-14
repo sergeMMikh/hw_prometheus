@@ -29,3 +29,20 @@
 #### Требования к результату
 - скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [ФИО]
   * <img src="images/Task_2_1.jpg" alt="Task_1_1" width="500" height="auto">
+
+---
+
+### Задание 3*
+Подключите Node Exporter к серверу Prometheus.
+
+#### Процесс выполнения
+1. Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
+2. Отредактируйте prometheus.yaml, добавив в массив таргетов установленный в задании 2 node exporter
+3. Перезапустите prometheus
+4. Проверьте что он запустился
+
+#### Требования к результату
+- скриншот конфигурации из интерфейса Prometheus вкладки Status > Configuration
+  * <img src="images/Task_3_1.jpg" alt="Task_3_1" width="500" height="auto">
+- скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
+  * <img src="images/Task_3_2.jpg" alt="Task_3_2" width="500" height="auto">
